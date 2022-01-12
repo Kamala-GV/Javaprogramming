@@ -1,0 +1,12 @@
+package day_13;
+
+import java.util.Scanner;
+
+public class HomeTask10 {
+    public static void main(String[] args) {
+        Scanner scan=new Scanner(System.in);
+        System.out.println("Enter an email");
+        String email=scan.nextLine();
+
+    }
+}
