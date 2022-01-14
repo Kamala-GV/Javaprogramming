@@ -7,7 +7,7 @@ public class Practice {
 
         ArrayList<String> list1= new ArrayList<>();
 
-        list1.add("ana");
+        list1.add("ana");//llll
         list1.add("leyla");
         list1.add("amal");;
         list1.remove("amal");
